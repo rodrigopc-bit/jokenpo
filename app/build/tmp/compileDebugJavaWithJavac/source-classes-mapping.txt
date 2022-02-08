@@ -1,0 +1,4 @@
+com/example/jokenpo/MainActivity.java
+ com.example.jokenpo.MainActivity
+com/example/jokenpo/BuildConfig.java
+ com.example.jokenpo.BuildConfig
